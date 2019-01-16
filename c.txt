@@ -1,0 +1,32 @@
+개발표준
+	css+js
+		jquery
+		jqgrid
+		user defined
+	resources
+		mybatis
+			settings
+				jdbcTypeForNull
+					개요
+						파라미터가 null인경우 기본값 설정
+					값종류
+						NULL
+						VARCHAR
+			typeAliases
+				typeAlias
+					type
+						java.util.HashMap
+	jqGrid
+		grid1
+			전역변수
+				추가 후 row선택기능
+			초기설정
+			db
+				조회
+				수정
+				삭제
+			이벤트
+				신규
+				수정
+				삭제
+			유효성검사
